@@ -8,6 +8,9 @@ Python script to update Zabbix templates
 - Copy templates or folders of templates to templates/ or any other specified template folder in the config
 - Run script
 
+You can get the default Zabbix templates from Zabbix git repo found [here](https://git.zabbix.com).
+
+
 ## Configuration
 ### Server
 | Name    | Required                                   | Default                   | Description                          |
